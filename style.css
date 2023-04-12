@@ -1,0 +1,23 @@
+body{
+color:white;
+background-color: blue;
+}
+
+h3{
+color:blueviolet
+}
+.heading{
+width: 80%;
+font-size: 22px;
+}
+._of_objects{
+    color: coral;
+
+}
+#camera{
+    color: darkgoldenrod;
+    border:2px dashed palegoldenrod; 
+    width: 350px;
+    height:300px;
+;
+}
